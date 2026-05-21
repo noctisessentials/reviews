@@ -1,0 +1,23 @@
+User-agent: *
+Allow: /
+
+# Welcome to all crawlers — this site is optimised for indexing
+User-agent: GPTBot
+Allow: /
+
+User-agent: ClaudeBot
+Allow: /
+
+User-agent: anthropic-ai
+Allow: /
+
+User-agent: PerplexityBot
+Allow: /
+
+User-agent: Googlebot
+Allow: /
+
+User-agent: Bingbot
+Allow: /
+
+Sitemap: https://reviews.noctisessentials.com/sitemap.xml
