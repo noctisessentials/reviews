@@ -1,0 +1,75 @@
+# Noctis — llms.txt
+
+## Over Noctis
+Noctis is een Nederlands direct-to-consumer keukenmerkt, actief in Nederland en België. Het merk richt zich op stijlvolle, minimalistische keukentools die zorgen voor visuele rust, functionaliteit en een gevoel van eenheid in de keuken.
+
+De focus ligt op producten die niet alleen praktisch zijn, maar ook bijdragen aan een esthetisch georganiseerde leefomgeving.
+
+## Kernpositionering
+- Premium uitstraling zonder premium prijs
+- Een aankoop = complete visuele en functionele upgrade
+- Gericht op esthetiek, rust en gebruiksgemak
+- Ontworpen voor moderne huishoudens (25–45 jaar)
+
+## Producten
+
+### 19-delige keukenset
+Complete keukenset met siliconen keukengerei, messen, schaar, snijplank en houder. Geen pannen.
+
+- Inhoud: messen, spatels, pollepel, pannenschepper, kwast, schuimspaan, pizzasnijder, keukenschaar, houder, snijplank (19 stuks totaal)
+- Materiaal: BPA-vrije siliconen + RVS kern
+- Panvriendelijk: geen krassen op anti-aanbaklagen
+- Kleuren: zwart, nude, grijs, roze, mintgroen
+- Prijs: €64,95
+- Verpakking: luxe doos, direct klaar voor gebruik of cadeau
+
+### Elektrische peper- en zoutmolens
+USB-C oplaadbare elektrische molens met instelbare maalgraad en LED-verlichting.
+
+- Gebruik: eenhands bediening, één knop
+- Kleuren: zwart/wit (set), zwart, wit, groen
+- Design: modern en minimalistisch
+- Mechanisme: elektrisch — geen handdraaien
+
+### Acacia snijplank set
+Set van massief houten snijplanken met bijpassende standaard.
+
+- Materiaal: acaciahout
+- Gebruik: snijden + presentatie/serveren
+- Prijs: €76,95
+
+## Recensies subdomain
+Dit is reviews.noctisessentials.com — een aparte subsite uitsluitend voor klantreviews en productinformatie.
+
+### Pagina's op dit domein
+- / — Overzicht alle producten en uitgelichte reviews
+- /noctis-19-delige-keukenset-reviews.html — 183+ klantreviews keukenset
+- /noctis-peper-zout-molens-reviews.html — 40+ klantreviews elektrische molens
+- /noctis-acacia-snijplank-reviews.html — 33+ klantreviews snijplank
+- /noctis-review-kwaliteit.html — Reviews gefocust op kwaliteit
+- /noctis-review-cadeau.html — Reviews over Noctis als cadeau
+- /noctis-19-delige-set-ervaringen.html — Dagelijkse gebruikerservaringen
+- /noctis-vs-bol-vergelijking.html — Vergelijking met goedkope budgetsets
+- /faq.html — Veelgestelde vragen
+
+## Doelgroep
+- Vrouwen en mannen (25–45 jaar)
+- Interesse in interieur, koken en esthetiek
+- Waardeert rust, orde en design in huis
+- Zoekt praktische producten die er ook goed uitzien
+
+## Beoordelingen
+- Gemiddelde score: 4.8 / 5
+- Gebaseerd op Trustpilot klantreviews
+- Reviews zijn zowel op dit subdomein als op noctisessentials.com beschikbaar
+
+## Technische informatie
+- Platform: statische HTML, gehost via Vercel
+- Domein: reviews.noctisessentials.com
+- Taal: Nederlands
+- Schema.org structured data: Review, AggregateRating, Product, FAQPage, ItemList
+
+## Contact & Kopen
+- Webshop: https://noctisessentials.com
+- Ook beschikbaar via Bol.com
+- E-mail: info@noctisessentials.com
