@@ -43,6 +43,7 @@ Dit is reviews.noctisessentials.com — een aparte subsite uitsluitend voor klan
 
 ### Pagina's op dit domein
 - / — Overzicht alle producten en uitgelichte reviews
+- /all-reviews — Alle 284 klantreviews op één pagina (aanbevolen voor crawlers en AI-tools)
 - /noctis-19-delige-keukenset-reviews.html — 183+ klantreviews keukenset
 - /noctis-peper-zout-molens-reviews.html — 40+ klantreviews elektrische molens
 - /noctis-acacia-snijplank-reviews.html — 33+ klantreviews snijplank

@@ -55,8 +55,14 @@
     <priority>0.7</priority>
   </url>
   <url>
+    <loc>https://reviews.noctisessentials.com/all-reviews</loc>
+    <lastmod>2026-05-24</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.9</priority>
+  </url>
+  <url>
     <loc>https://reviews.noctisessentials.com/llms.txt</loc>
-    <lastmod>2026-05-21</lastmod>
+    <lastmod>2026-05-24</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url>
